@@ -1,6 +1,6 @@
 # Read PDF Content
 
-A simple script which allows 
+A simple script which allows pdf text to be read.
 
 ## Installation
 
